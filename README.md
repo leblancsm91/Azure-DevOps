@@ -3,7 +3,6 @@ the final and live project
 
 I organized the icons in the footer. This had to be done without interrupting functionality of the links. 
 
-    @*Chat Modal*@
     @RenderPage("Chat.cshtml")
    
     <div id="main" class="container body-content">
